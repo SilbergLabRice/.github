@@ -5,7 +5,8 @@
 
 ## What should your repository have?
 - A minimal README that details what your code does, and how to use it?
-- A separate folder for the actual code and one for examples/ datasets
+- A separate folder with example actual code and one for examples/ datasets
+- A license if you are going to make it a public repository, so people know how to use it!
 
 ## How to manage the steps?
 Ideally, have your own original repository (for safety) and fork it to `SilbergLabRice` organization so others can access and improve on it
